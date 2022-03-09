@@ -3,4 +3,6 @@ Rencana Baru telaga softwere
 -cari kerja
  * java script
  * framework java script
- -fundamental
+ ^ Angular
+ ^ React js
+- Laravel
