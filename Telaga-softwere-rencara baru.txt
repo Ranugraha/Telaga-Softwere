@@ -3,6 +3,7 @@ Rencana Baru telaga softwere
 -cari kerja
  * java script
  * framework java script
- ^ Angular
- ^ React js
-- Laravel
+  ^ Viu js
+  ^ React js
+ -fundamental
+ - phyton
