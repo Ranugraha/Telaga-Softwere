@@ -2,3 +2,4 @@ Telaga Softwere
 - Membuat company profile
 - push frelancer
 - UA /UX Design
+- Membuat ERP
