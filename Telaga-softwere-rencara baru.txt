@@ -3,4 +3,8 @@ Rencana Baru telaga softwere
 -cari kerja
  * java script
  * framework java script
+ ^ Viu js
+ ^ Reacjs
  -fundamental
+ -programing
+ ^ php
