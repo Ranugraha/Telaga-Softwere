@@ -4,5 +4,6 @@ Rencana Baru telaga softwere
  * java script
  * framework java script
   ^ Viu js
+  ^ React js
  -fundamental
  - phyton
